@@ -1,5 +1,6 @@
 # Professional-Statement
-A professional statement that briefly explains who you are and what you are passionate about,
+A professional statement that briefly explains who you are and what I am passionate about,
+As an aspiring cybersecurity professional, I bring analytical thinking, adaptability, and meticulous attention to detail. My core values include protecting organizations and ensuring privacy. What excites me most about this field is the dynamic nature of threats and the opportunity to secure systems. Leveraging my strengths and values, I aim to contribute to organizations’ security goals by fortifying defenses, detecting vulnerabilities, and safeguarding data.”
 ## Strengths:
 Analytical Thinking: I excel at dissecting complex problems and finding innovative solutions.
 Adaptability: I thrive in dynamic environments, embracing change and learning from it.
